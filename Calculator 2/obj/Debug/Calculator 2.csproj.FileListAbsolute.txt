@@ -1,0 +1,29 @@
+E:\Calculator 2\Calculator 2\obj\Debug\MainWindow.g.cs
+E:\Calculator 2\Calculator 2\obj\Debug\App.g.cs
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2_MarkupCompile.cache
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2_MarkupCompile.lref
+E:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe.config
+E:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+E:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+E:\Calculator 2\Calculator 2\obj\Debug\MainWindow.baml
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.g.resources
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.Cache
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.exe
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.pdb
+E:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csprojResolveAssemblyReference.cache
+F:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe.config
+F:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+F:\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csprojResolveAssemblyReference.cache
+F:\Calculator 2\Calculator 2\obj\Debug\MainWindow.g.cs
+F:\Calculator 2\Calculator 2\obj\Debug\App.g.cs
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2_MarkupCompile.cache
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2_MarkupCompile.lref
+F:\Calculator 2\Calculator 2\obj\Debug\MainWindow.baml
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.g.resources
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.Cache
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.exe
+F:\Calculator 2\Calculator 2\obj\Debug\Calculator 2.pdb
